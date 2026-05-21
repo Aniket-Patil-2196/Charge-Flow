@@ -1,0 +1,6 @@
+{
+  "name": "ChargeFlow — Smart EV Charging Platform",
+  "description": "Find, Book, Charge, and Track EVs with real-time maps, AI charging duration predictions, queue management, dynamic pricing, and an advanced admin cockpit.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
